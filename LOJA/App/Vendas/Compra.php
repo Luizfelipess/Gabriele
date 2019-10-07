@@ -1,3 +1,4 @@
+lipe meu xuxu
 <?php
 namespace App\Vendas;
 
